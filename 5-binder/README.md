@@ -31,7 +31,7 @@ https://github.com/<your-user-name>/reproducible-computational-workflows
 
 5. Paste the text snippet below
  
-*your Jupyter Notebook launch badge goes here ...*
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Arhodes-Broad/reproducible-computational-workflows/master?filepath=3-jupyter%2F3D_visualization.ipynb)
 
 ### Add a binder badge for Jupyter Lab
 
@@ -72,4 +72,4 @@ https://github.com/<your-user-name>/reproducible-computational-workflows
 13. Run your Notebooks on MyBinder.org
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Arhodes-Broad/reproducible-computational-workflows/master?filepath=3-jupyter%2F3D_visualization.ipynb)
+
