@@ -70,3 +70,6 @@ https://github.com/<your-user-name>/reproducible-computational-workflows
 12. Wait, wait, ... it may take several minutes to build a binder image ... until Jupyter launches.
 
 13. Run your Notebooks on MyBinder.org
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Arhodes-Broad/reproducible-computational-workflows/master?filepath=3-jupyter%2F3D_visualization.ipynb)
